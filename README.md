@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi👋 I'm Eileen.
+- MS in CSIE at NCU.
+- BS in CSIE at NDHU.
+- Personal Website: [Xin0's Website](https://live-term-xin0s-projects.vercel.app/)
+- Contact Me: [Linkedin](https://www.linkedin.com/in/hsinlingchang/)
 
 <!--
 **eileen0904/eileen0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
